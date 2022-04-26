@@ -1,1 +1,2 @@
 hello Git master test
+hello Git hot-fix test
