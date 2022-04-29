@@ -2,3 +2,4 @@ hello Git master test
 hello Git hot-fix test
 111111
 222222 by lhc
+git-new commit
